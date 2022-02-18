@@ -1,5 +1,5 @@
 {
-  "name": "rightimage",
+  "name": "@one.com/rightimage",
   "version": "1.2.0",
   "description": "Stream images with dynamic re-orientation",
   "main": "lib/index.js",
